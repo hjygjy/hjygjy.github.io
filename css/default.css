@@ -51,9 +51,9 @@ body {
 #words {
     font-family: 'Great Vibes', Helvetica, sans-serif;
     width: 500px;
-    font-size: 2em;
+    font-size: 15px;
     position: absolute;
-    top: 160px;
+    top: 120px;
     left: 70px;
     color: #000;
     text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
