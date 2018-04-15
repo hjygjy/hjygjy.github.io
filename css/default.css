@@ -60,7 +60,8 @@ body {
 }
 
 #messages {
-    display: none
+    font-size:10px;
+    margin-top:30px
 }
 
 #elapseClock .digit {
